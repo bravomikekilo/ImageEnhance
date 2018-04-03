@@ -1,4 +1,4 @@
-I = imread('b.jpg');
+I = imread('../origin.jpg');
 I = rgb2gray(I);
 %I = histbalance(I);
 I = I(100:200,200:800);

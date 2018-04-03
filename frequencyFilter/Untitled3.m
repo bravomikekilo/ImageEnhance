@@ -1,4 +1,4 @@
-I = imread('a.png');
+I = imread('../origin.jpg');
 I = rgb2gray(I);
 subplot(1,3,1);imshow(I);
 t = fft2(I);
