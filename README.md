@@ -18,3 +18,6 @@ please place the origin image in root directory and named as 'origin.jpg'
 frequency filter is in the `frequencyfilter` directory
 
 please place the origin image in root directory and named as 'origin.jpg'
+
+
+edge detect is in the `edgeDetect` directory
